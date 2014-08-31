@@ -2,7 +2,7 @@ SwotJS
 ======
 
 ## What is SwotJS?
-A simple CLI to test if an email address is from a verified academic institution around the world. Written in NodeJS.
+A simple CLI to test if an email address is from a verified academic institution around the world. Written in Node.js.
 
 ## Running SwotJS
 ```sh
