@@ -3,7 +3,9 @@ SwotJS
 
 ## What is SwotJS?
 A simple CLI written in Node.js to test if an email address is from a verified academic institution around the world. Uses 
-@Hipo's [University Domain List](https://github.com/Hipo/university-domains-list).
+the [University Domains and Names List](https://github.com/Hipo/university-domains-list).
+
+**NOTICE**: Not complete, under active development.
 
 ## Running SwotJS
 ```sh
