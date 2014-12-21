@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/xasos/SwotJS.git"
+    "url": "git://github.com/xasos/SwotJS"
   },
   "author": "Niraj Pant",
   "license": "MIT",
@@ -18,10 +18,10 @@
   "homepage": "https://github.com/xasos/SwotJS",
   "preferGlobal": "true",
   "bin": {
-    "swot" : "lib/swot.js"
+    "swot": "lib/swot.js"
   },
-  "repository": {
-   "type": "git",
-   "url": "git://github.com/xasos/SwotJS"
- }
+  "dependencies": {
+    "fs-extra": "^0.13.0",
+    "jsonfile": "^2.0.0"
+  }
 }
